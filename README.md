@@ -3,4 +3,6 @@
 
 - [0000-KL divergence of univariate Gaussian](https://irlyue.github.io/blog/0000-KL%20divergence%20of%20univariate%20Gaussian.html)
 - [0001-Faster RCNN](https://irlyue.github.io/blog/0001-Faster%20RCNN.html)
-- [0002-RoI Pooling](https://irlyue/github.io/blog/0002-RoI%20Pooling.html)
+- [0002-RoI Pooling](https://irlyue.github.io/blog/0002-RoI%20Pooling.html)
+- [0006-Rodrigue Transformation](https://irlyue.github.io/blog/0006-Rodrigues%20Transformation.html)
+
